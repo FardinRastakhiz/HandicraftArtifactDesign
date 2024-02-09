@@ -1,0 +1,120 @@
+Initialize engine version: 4.7.2f1 (a7fe7b7f3d1f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce RTX 3080 (ID=0x2216)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\MaiProjects\Softwares\AhoogV1.0\Puzzle old\Test Builds\newFolder\SistanArtifact_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\MaiProjects\Softwares\AhoogV1.0\Puzzle old\Test Builds\newFolder\SistanArtifact_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\MaiProjects\Softwares\AhoogV1.0\Puzzle old\Test Builds\newFolder\SistanArtifact_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\MaiProjects\Softwares\AhoogV1.0\Puzzle old\Test Builds\newFolder\SistanArtifact_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\MaiProjects\Softwares\AhoogV1.0\Puzzle old\Test Builds\newFolder\SistanArtifact_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\MaiProjects\Softwares\AhoogV1.0\Puzzle old\Test Builds\newFolder\SistanArtifact_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\MaiProjects\Softwares\AhoogV1.0\Puzzle old\Test Builds\newFolder\SistanArtifact_Data\Managed\Mono.Data.dll (this message is harmless)
+Loading F:\MaiProjects\Softwares\AhoogV1.0\Puzzle old\Test Builds\newFolder\SistanArtifact_Data\Managed\Mono.Data.dll into Unity Child Domain
+Platform assembly: F:\MaiProjects\Softwares\AhoogV1.0\Puzzle old\Test Builds\newFolder\SistanArtifact_Data\Managed\Mono.Data.Sqlite.dll (this message is harmless)
+Loading F:\MaiProjects\Softwares\AhoogV1.0\Puzzle old\Test Builds\newFolder\SistanArtifact_Data\Managed\Mono.Data.Sqlite.dll into Unity Child Domain
+Platform assembly: F:\MaiProjects\Softwares\AhoogV1.0\Puzzle old\Test Builds\newFolder\SistanArtifact_Data\Managed\Mono.Data.SqliteClient.dll (this message is harmless)
+Loading F:\MaiProjects\Softwares\AhoogV1.0\Puzzle old\Test Builds\newFolder\SistanArtifact_Data\Managed\Mono.Data.SqliteClient.dll into Unity Child Domain
+Platform assembly: F:\MaiProjects\Softwares\AhoogV1.0\Puzzle old\Test Builds\newFolder\SistanArtifact_Data\Managed\System.Configuration.dll (this message is harmless)
+Loading F:\MaiProjects\Softwares\AhoogV1.0\Puzzle old\Test Builds\newFolder\SistanArtifact_Data\Managed\System.Configuration.dll into Unity Child Domain
+Platform assembly: F:\MaiProjects\Softwares\AhoogV1.0\Puzzle old\Test Builds\newFolder\SistanArtifact_Data\Managed\System.Data.dll (this message is harmless)
+Loading F:\MaiProjects\Softwares\AhoogV1.0\Puzzle old\Test Builds\newFolder\SistanArtifact_Data\Managed\System.Data.dll into Unity Child Domain
+Platform assembly: F:\MaiProjects\Softwares\AhoogV1.0\Puzzle old\Test Builds\newFolder\SistanArtifact_Data\Managed\System.EnterpriseServices.dll (this message is harmless)
+Loading F:\MaiProjects\Softwares\AhoogV1.0\Puzzle old\Test Builds\newFolder\SistanArtifact_Data\Managed\System.EnterpriseServices.dll into Unity Child Domain
+Platform assembly: F:\MaiProjects\Softwares\AhoogV1.0\Puzzle old\Test Builds\newFolder\SistanArtifact_Data\Managed\System.Security.dll (this message is harmless)
+Loading F:\MaiProjects\Softwares\AhoogV1.0\Puzzle old\Test Builds\newFolder\SistanArtifact_Data\Managed\System.Security.dll into Unity Child Domain
+- Completed reload, in  0.070 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
+Platform assembly: F:\MaiProjects\Softwares\AhoogV1.0\Puzzle old\Test Builds\newFolder\SistanArtifact_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\MaiProjects\Softwares\AhoogV1.0\Puzzle old\Test Builds\newFolder\SistanArtifact_Data\Managed\System.dll (this message is harmless)
+Platform assembly: F:\MaiProjects\Softwares\AhoogV1.0\Puzzle old\Test Builds\newFolder\SistanArtifact_Data\Managed\System.Transactions.dll (this message is harmless)
+Platform assembly: F:\MaiProjects\Softwares\AhoogV1.0\Puzzle old\Test Builds\newFolder\SistanArtifact_Data\Managed\System.Xml.dll (this message is harmless)
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/sqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/.\sqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/sqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/libsqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/.\libsqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/libsqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/sqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/.\sqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/sqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/libsqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/.\libsqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/libsqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/sqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/.\sqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/sqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/libsqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/.\libsqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/libsqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/sqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/.\sqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/sqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/libsqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/.\libsqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/libsqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/sqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/.\sqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/sqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/libsqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/.\libsqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/libsqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/sqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/.\sqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/sqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/libsqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/.\libsqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/libsqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/sqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/.\sqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/sqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/libsqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/.\libsqlite
+Fallback handler could not load library F:/MaiProjects/Softwares/AhoogV1.0/Puzzle old/Test Builds/newFolder/SistanArtifact_Data/Mono/libsqlite
+SqliteSyntaxException: no such table: Plans
+  at Mono.Data.SqliteClient.SqliteCommand.GetNextStatement (IntPtr pzStart, System.IntPtr& pzTail, System.IntPtr& pStmt) [0x00000] in <filename unknown>:0 
+  at Mono.Data.SqliteClient.SqliteCommand.ExecuteReader (CommandBehavior behavior, Boolean want_results, System.Int32& rows_affected) [0x00000] in <filename unknown>:0 
+  at Mono.Data.SqliteClient.SqliteCommand.ExecuteReader (CommandBehavior behavior) [0x00000] in <filename unknown>:0 
+  at Mono.Data.SqliteClient.SqliteCommand.ExecuteDbDataReader (CommandBehavior behavior) [0x00000] in <filename unknown>:0 
+  at System.Data.Common.DbCommand.ExecuteReader () [0x00000] in <filename unknown>:0 
+  at System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader () [0x00000] in <filename unknown>:0 
+  at SQLiteExecute.ReadExecute (System.String SQLQuery) [0x00000] in <filename unknown>:0 
+  at GenPlans.TakePlans () [0x00000] in <filename unknown>:0 
+  at GenPlans.Start () [0x00000] in <filename unknown>:0 
+  at StartProgram.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+This doesn't happen at start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+name:Select
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+SELECT  :  Select
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+This happens at start: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+This doesn't happen at start
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+name:Scale
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+SCALE  :  Scale
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
